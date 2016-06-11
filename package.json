@@ -1,0 +1,22 @@
+{
+  "name": "dbp",
+  "version": "1.0.0",
+  "description": "Ejemplo de creación de un proyecto express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blancoparis-tfc/expressHolaMundo.git"
+  },
+  "author": "David Blanco París",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blancoparis-tfc/expressHolaMundo/issues"
+  },
+  "homepage": "https://github.com/blancoparis-tfc/expressHolaMundo#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
